@@ -1,6 +1,6 @@
-# 🎭 Projeto Isaac - Assistente Multimodal UPA 2025
+# Projeto Isaac - Interactive System for Autonomous AI Communication
 
-O **Projeto Isaac** é um avatar/fantoche virtual 2D interativo com Inteligência Artificial multimodal projetado para apresentação em eventos universitários (como a *Unicamp de Portas Abertas* - UPA 2025). 
+O **Projeto Isaac** é um avatar/fantoche virtual 2D interativo com Inteligência Artificial multimodal projetado para interação detalhada com usuário em tempo real.
 
 O sistema funciona em tempo real e de forma **100% local e offline**, combinando visão computacional, audição, modelo de linguagem, síntese de voz e sincronização labial fonética (*lip-sync*).
 
