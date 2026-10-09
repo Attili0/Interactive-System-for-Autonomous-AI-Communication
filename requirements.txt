@@ -1,0 +1,41 @@
+# ==============================================================================
+# Dependências do Projeto Isaac (Assistente Inteligente Multimodal UPA 2025)
+# ==============================================================================
+
+# Visão Computacional e Processamento de Imagens
+opencv-python>=4.8.0
+insightface>=0.7.3
+onnxruntime>=1.16.0
+emotiefflib>=0.1.0
+
+# Áudio, Microfone e Transcrição
+sounddevice>=0.4.6
+scipy>=1.10.0
+torch>=2.0.0
+torchaudio>=2.0.0
+faster-whisper>=1.0.0
+
+# Renderização Gráfica do Fantoche 2D
+pygame>=2.5.0
+
+# Síntese Neural de Fala (TTS)
+piper-tts>=1.2.0
+
+# Inteligência Artificial / LLM Local
+ollama>=0.2.0
+
+# Utilitários de Teclado, Sistema e Web
+numpy>=1.24.0,<2.0.0
+pynput>=1.7.6
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# ==============================================================================
+# Dependências Extras para o Modo Orgânico (Wav2Lip / Deep Learning)
+# Descomente ou instale separadamente caso use ANIMATION_MODE = "organic"
+# ==============================================================================
+# torchvision>=0.15.0
+# torchaudio>=2.0.0
+# librosa>=0.10.0
+# face_alignment>=1.3.5
+# numba>=0.58.0
